@@ -1,0 +1,1 @@
+An ActionScript library for working with common file compression formats. The first supported format is GZIP; others may follow depending on interest and need.
